@@ -28,3 +28,9 @@ General schematic
 **Total time spent: 2h**
 
 ---
+## CAD work
+
+So For this Project I don't really need much of a PCb I need to make the enclosure of the display and the whole thing to be cool.
+So for this I am working of outer case and make it too good . For this I will be using Fusion 360 to design the whole thing..
+
+
