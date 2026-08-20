@@ -33,4 +33,25 @@ General schematic
 So For this Project I don't really need much of a PCb I need to make the enclosure of the display and the whole thing to be cool.
 So for this I am working of outer case and make it too good . For this I will be using Fusion 360 to design the whole thing..
 
+**Let me get the dimensions of the display first**
+
+<img width="800" height="614" alt="image" src="https://github.com/user-attachments/assets/51bb1f22-cfe9-4726-8f50-e57cd8bdb4d8" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 12 00 AM" src="https://github.com/user-attachments/assets/9d76844e-ea3e-4387-9e07-ddb4f035405e" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 12 11 AM" src="https://github.com/user-attachments/assets/fc19f7a0-8343-4aaa-9d77-b63ee0b7d21a" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 12 50 AM" src="https://github.com/user-attachments/assets/997aa762-6244-4367-926f-07cd8a939e81" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 13 21 AM" src="https://github.com/user-attachments/assets/bf2f0fb8-fb2e-4f19-a5b7-118ccb647d22" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 25 05 AM" src="https://github.com/user-attachments/assets/796a4630-846c-4a0d-94b0-a53e184b72de" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 27 05 AM" src="https://github.com/user-attachments/assets/8da4eaef-a764-4633-9777-18e4f833531e" />
+
+
+
+
+
+
 
