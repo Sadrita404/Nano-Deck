@@ -1,8 +1,8 @@
 ---
 title: Nano Deck
-description:  
+description:  It's a Cheap Cyber Deck that uses the raspberry pi zero 2 w with a 5inch Display along with a small keyboard this is also a rechargeable cyber deck called Nano Deck
 created_at: "2026-09-18"
-Total Time Spent : 
+Total Time Spent : 5.3hr
 
 ---
 
@@ -49,9 +49,50 @@ So for this I am working of outer case and make it too good . For this I will be
 
 <img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 27 05 AM" src="https://github.com/user-attachments/assets/8da4eaef-a764-4633-9777-18e4f833531e" />
 
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 35 01 AM" src="https://github.com/user-attachments/assets/0aab807a-a324-4df7-82e7-b087aaddab43" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 40 30 AM" src="https://github.com/user-attachments/assets/6ca614f1-f04f-4a7a-814a-903ee1d8836c" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 41 29 AM" src="https://github.com/user-attachments/assets/0985baa7-d9e4-4486-90e2-6480c50cc9ca" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 44 34 AM" src="https://github.com/user-attachments/assets/7893480c-38a0-4031-b2fe-fd11021a1712" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 45 00 AM" src="https://github.com/user-attachments/assets/8bebed40-91de-4c5f-96ef-0b263c8cadb6" />
+
+**Total time spent: 2.2h**
+
+---
+
+## Now adding colour to the model 
+
+To make it good and add some more realistic I need to add some colour and render some images of this ..
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 50 52 AM" src="https://github.com/user-attachments/assets/05dc4ec6-b9f7-4028-8531-6fa4e67f61b9" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 55 27 AM" src="https://github.com/user-attachments/assets/f17bd034-22f0-4478-8338-243fd6c009a6" />
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 56 17 AM" src="https://github.com/user-attachments/assets/2be80348-8a3c-429c-a7cb-4394ca4b3fe3" />
 
 
+**Total time spent: 0.5h**
+
+---
+
+## Now I need to render some good images of this to put it in the Github..
+
+Rendering Started
+
+<img width="1470" height="956" alt="Screenshot 2026-08-20 at 6 58 47 AM" src="https://github.com/user-attachments/assets/7b6692f7-695a-497a-a5de-4f016835d057" />
+
+**Final Renders**
+
+<img width="2940" height="1272" alt="Render 1" src="https://github.com/user-attachments/assets/adb5fda6-5850-47f3-b975-6311c9ce7fc3" />
+
+<img width="2940" height="1272" alt="Render 2" src="https://github.com/user-attachments/assets/20547b30-93ea-49c8-98cd-7ae63849dc05" />
+
+<img width="2940" height="1272" alt="Render3" src="https://github.com/user-attachments/assets/d13db254-132a-4ae2-9ee4-c87a7e85dcf2" />
+
+<img width="2940" height="1272" alt="Render4" src="https://github.com/user-attachments/assets/91eb9017-df4e-4df3-a844-858de0b80d22" />
 
 
-
+**Total time spent: 0.6h**
 
