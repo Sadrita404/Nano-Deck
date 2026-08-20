@@ -19,8 +19,8 @@ It's a Cheap Cyber Deck that uses the raspberry pi zero 2 w with a 5inch Display
 
 * Has raspberry pi zero 2 w
 * Battery Powered 
-* Has a mini Keyboar
-* 5inch Display 
+* Has a mini Keyboard
+* 5inch Display lcd
 * Custom Case
 
 ## General Schematic
